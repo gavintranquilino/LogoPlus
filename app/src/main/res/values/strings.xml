@@ -2,7 +2,7 @@
     <string name="app_name">Logo+</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="app_blurb">Open Source Impelemantion of Lighting Effects for Razer Phone 2</string>
+    <string name="app_blurb">Open Source Implementation of Lighting Effects for Razer Phone 2</string>
     <string name="about_title">About</string>
     <string name="about_text">%s %s\n\n%s\n\nCopyright  © 2019\nCurtis Jones\n\nPackage: %s\nBuild: %s</string>
     <string name="ok_text">OK</string>
